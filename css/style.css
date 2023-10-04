@@ -1,0 +1,51 @@
+body{
+    height: 100vh;
+    background-color: rgb(29, 27, 27);
+}
+
+.container-base, .row-container{
+    height: 100%;
+}
+
+footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #32393f;
+    color: white;
+    height: 50px;
+}
+
+p, h4{
+    padding: 0;
+    color: white;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.c-footer{
+    padding-top: 1rem;
+}
+
+pre{
+    font-size: medium;
+}
+
+nav{
+    height: 60px;
+}
+
+.navbar-brand:hover{
+    color: #ab2869
+}
+
+.fa-brands * {
+	color: hotpink;
+}
+
+.imagemSobre {
+	width: 100%;
+}
